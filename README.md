@@ -3,7 +3,6 @@
 # sp-hoaxshell
 
 Copy of the real Hoaxshell (https://github.com/t3l3machus/hoaxshell) with modifications to automatise everything
-& see : https://github.com/SentinelSamuel/sp-hoaxshell
 
 ## Installation + configuration before the start
 ```
