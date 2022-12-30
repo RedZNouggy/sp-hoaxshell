@@ -1,0 +1,14 @@
+PackageIdentifier: WindowsUpdate
+PackageVersion: 19045.2364
+PackageLocale: en-US
+Publisher: Acme
+PackageName: WindowsUp
+License: MIT
+ShortDescription: winacme
+Installers:
+ - Architecture: x64
+   InstallerType: exe
+   InstallerUrl: <HTTPorHTTPS>://<IP>:<Port>/<FileName>
+   InstallerSha256: <Sha256>
+ManifestType: singleton
+ManifestVersion: 19045.2364  
