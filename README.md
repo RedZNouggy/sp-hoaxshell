@@ -6,13 +6,13 @@ Copy of the real Hoaxshell (https://github.com/t3l3machus/hoaxshell) with modifi
 
 ## Installation + configuration before the start
 ```
-sudo git clone https://github.com/t3l3machus/hoaxshell.git
-sudo rm ./hoaxshell/hoaxshell.py
-sudo git clone https://github.com/SentinelSamuel/sp-hoaxshell.git
-sudo mv ./sp-hoaxshell/hoaxshell.py ./hoaxshell
-sudo mv ./sp-hoaxshell/sp-hoax/ ./
+git clone https://github.com/t3l3machus/hoaxshell.git
+rm ./hoaxshell/hoaxshell.py
+git clone https://github.com/SentinelSamuel/sp-hoaxshell.git
+mv ./sp-hoaxshell/hoaxshell.py ./hoaxshell
+mv ./sp-hoaxshell/sp-hoax/ ./
 sudo rm -rf ./sp-hoaxshell
-sudo pip3 install -r ./hoaxshell/requirements.txt
+pip3 install -r ./hoaxshell/requirements.txt
 sudo chmod +x ./hoaxshell/hoaxshell.py
 cd sp-hoax/
 ```
